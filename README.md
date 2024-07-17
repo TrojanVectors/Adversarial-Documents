@@ -33,9 +33,9 @@ Addressing these vulnerabilities is crucial to ensure the security and trustwort
 
 ## Resources
 
-- [Trojan Vectors Website](https://www.trojanvectors.com)
+- Trojan Vectors Website - TrojanVectors.com
 
 ## Get In Touch
 
 - Schedule a [call](https://cal.com/sachdh/30min) with us 
-- Send an [email](contact@trojanvectors.com) to discuss how to secure your AI applications and address potential vulnerabilities.
+- Send an email to contact@trojanvectors.com to discuss how to secure your AI applications and address potential vulnerabilities.
