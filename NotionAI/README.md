@@ -41,7 +41,7 @@ This demonstration is intended to highlight potential vulnerabilities in AI syst
 ## Get In Touch
 
 - Schedule a [call](https://cal.com/sachdh/30min) with us 
-- Send an [email](contact@trojanvectors.com) to discuss how to secure your AI applications and address potential vulnerabilities.
+- Send an email to contact@trojanvectors.com to discuss how to secure your AI applications and address potential vulnerabilities.
 
 ## Disclaimer
 The authors of this demonstration are not responsible for any misuse of this information. This content is provided for educational purposes only.
